@@ -1,7 +1,6 @@
 
 import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-
 function DetailsPage() {
   const navigate = useNavigate();
   const location = useLocation();
