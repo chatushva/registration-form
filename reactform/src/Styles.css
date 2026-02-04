@@ -219,7 +219,6 @@ body {
   .phone-grid {
     grid-template-columns: 1fr;
   }
-
   .form-title {
     font-size: 1.3rem;
   }
